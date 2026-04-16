@@ -1,6 +1,7 @@
 Este projeto apresenta uma análise de dados do e-commerce Olist, com foco em vendas, comportamento de clientes e performance de sellers.
 
-O objetivo é transformar dados brutos em insights relevantes para apoiar decisões de negócio.
+Os dados utilizados neste projeto foram extraídos do Kaggle: 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Objetivo:
 
